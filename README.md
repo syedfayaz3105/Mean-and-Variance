@@ -1,3 +1,5 @@
+                                                                                                                                            NAME: FARHAN H
+                                                                                                                                            REG.NO: 212223230057
 #  Mean and variance of a discrete  distribution
 
 
