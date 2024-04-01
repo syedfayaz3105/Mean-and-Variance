@@ -1,5 +1,5 @@
-                                            NAME: FARHANA H
-                                            REG NO:212223230057
+                                                              NAME: FARHANA H
+                                                              REG NO:212223230057
 #  Mean and variance of a discrete  distribution
 
 
@@ -77,7 +77,8 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
 
 # Output :
-![243929736-6630d8b9-e278-4051-a2c4-9fa91c1e6d44](https://github.com/syedfayaz3105/Mean-and-Variance/assets/147144126/c279a3f1-b23c-4875-a4ff-a2051a9e43e0)
+![243929736-6630d8b9-e278-4051-a2c4-9fa91c1e6d44](https://github.com/syedfayaz3105/Mean-and-Variance/assets/147144126/9dbf0aa0-a6cd-4613-a471-6dde3a1fdc26)
+
 
 
 # Results :
